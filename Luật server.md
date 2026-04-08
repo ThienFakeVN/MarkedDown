@@ -1,10 +1,11 @@
-Luật server (v0.1)
+Luật server (v2026.04.2)
 
 Có hiệu lực ngay khi được ban hành.
 
 # 1. Khu vực trung lập
 Khu vực trung lập là những khu vực đặc biệt trong server, thuộc về mọi người chơi. Những khu vực trung lập bao gồm:
 * Khu vực base chính trong phạm vi hình chữ nhật với 2 mốc tại tọa độ (-218 -49) và (326 -199)
+* Khu vực spawn
 * Máy farm Enderman
 
 1.1. Những khu vực trung lập thuộc về mọi người chơi, tức mọi người có quyền đi vào và, nếu không phải nhà do ai đó xây, mở các rương chứa đồ;
