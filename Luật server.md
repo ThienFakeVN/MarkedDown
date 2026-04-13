@@ -1,4 +1,4 @@
-Luật server (v2026.04.2)
+Luật server (v2026.04.3)
 
 Có hiệu lực ngay khi được ban hành.
 
@@ -22,4 +22,4 @@ Khu vực trung lập là những khu vực đặc biệt trong server, t
 2.1.2. Nếu người khác cưỡi một con vật nào đó để tấn công bạn (bao gồm cả ngựa và những thú cưng khác), bạn có thể giết nó;
 
 # 3. Các công cụ gian lận
-3.1. Không được sử dụng các công cụ gian lận như X-ray, auto-click, v.v. (ban 1 ngày);
+3.1. Không được sử dụng các công cụ gian lận như X-ray, auto-click, v.v. (ban 1 tuần -> ban 1 tháng);
