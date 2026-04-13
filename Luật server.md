@@ -1,4 +1,4 @@
-Luật server (v2026.04.3)
+Luật server (v2026.04.4)
 
 Có hiệu lực ngay khi được ban hành.
 
@@ -14,6 +14,8 @@ Khu vực trung lập là những khu vực đặc biệt trong server, t
 
 1.3. Chỉ được phép mở rương đồ ở trong một căn nhà của người khác khi họ cho phép (kick);
 
+1.4. Không được lavacast (ban 1 tháng)
+
 # 2. Thú cưng của người chơi
 2.1. Không được giết thú cưng của người khác (ban 2 ngày);
 
@@ -22,4 +24,4 @@ Khu vực trung lập là những khu vực đặc biệt trong server, t
 2.1.2. Nếu người khác cưỡi một con vật nào đó để tấn công bạn (bao gồm cả ngựa và những thú cưng khác), bạn có thể giết nó;
 
 # 3. Các công cụ gian lận
-3.1. Không được sử dụng các công cụ gian lận như X-ray, auto-click, v.v. (ban 1 tuần -> ban 1 tháng);
+3.1. Không được sử dụng các công cụ gian lận như X-ray, auto-click, v.v. (ban 1 tuần -> 1 tháng);
