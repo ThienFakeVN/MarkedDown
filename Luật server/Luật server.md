@@ -2,14 +2,9 @@ Luật server (v2026.04.5)
 
 Có hiệu lực ngay khi được ban hành.
 
-# 1. Khu vực trung lập
-Khu vực trung lập là những khu vực đặc biệt trong server, thuộc về mọi người chơi. Những khu vực trung lập bao gồm:
-* Khu vực base chính trong phạm vi hình chữ nhật với 2 mốc tại tọa độ (-218; -49) và (326; -199) (tính cả đường biên);
-* Khu vực spawn;
-* Máy farm Enderman;
-* Mapart được xác nhận;
-* Mộ của Happy Ghast.
+Xem định nghĩa một số khái niệm tại [đây](Một_số_yếu_tố_của_luật_server.md#khai-niem)
 
+# 1. Khu vực trung lập
 1.1. Những khu vực trung lập thuộc về mọi người chơi, tức mọi người có quyền đi vào và mở các rương chứa đồ;
 
 1.1.1. Cấm việc lấy đồ ở mộ của Happy Ghast (cảnh báo + trả đồ -> ban 1 ngày + vào lại phải trả đồ -> ban 1 tuần+ vào lại phải trả đồ);
