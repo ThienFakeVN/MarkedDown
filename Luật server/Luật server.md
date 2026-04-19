@@ -1,4 +1,4 @@
-Luật server (v2026.04.5)
+Luật server (v2026.04.6)
 
 Có hiệu lực ngay khi được ban hành.
 
@@ -15,7 +15,7 @@ Xem định nghĩa một số khái niệm tại [đây](Một_số_yế
 
 1.1.4. Đối với các luật 1.1.1., 1.1.2. và 1.1.3., không trả đồ sẽ dẫn đến hình phạt tiếp theo. Trừ khi đó là hình phạt cao nhất, khi đó hình phạt sẽ được thực hiện lại;
 
-1.2. Không được phá hoại các khu vực trung lập và các công trình bên trong (ban 2 ngày -> ban 1 tuần);
+1.2. Không được phá hoại các khu vực trung lập và các công trình bên trong (ban 5 ngày -> ban 2 tuần);
 
 1.3. Không được lavacast (ban 1 tháng).
 
