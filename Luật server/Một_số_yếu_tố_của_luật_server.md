@@ -1,4 +1,4 @@
-Một số yếu tố của luật server (2026.04.2)
+Một số yếu tố của luật server (2026.04.5)
 
 # Giải thích một số khái niệm
 **Khu vực trung lập**: những khu vực đặc biệt trong server, thuộc về mọi người chơi. Những khu vực trung lập bao gồm:
