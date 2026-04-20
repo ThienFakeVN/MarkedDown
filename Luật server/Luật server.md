@@ -1,8 +1,12 @@
-Luật server (v2026.04.6)
+Luật server (v2026.04.7)
 
 Có hiệu lực ngay khi được ban hành.
 
-Xem định nghĩa một số khái niệm tại [đây](Một_số_yếu_tố_của_luật_server.md#khai-niem)
+Xem định nghĩa một số khái niệm tại [đây](Một_số_yếu_tố_của_luật_server.md#giải-thích-một-số-khái-niệm).
+
+Một số lưu ý khi đọc luật:
+- Các luật được in nghiêng là các luật do người chơi đề xuất, được Nghị viện thêm vào, có thể được bãi bỏ nếu Nghị viện muốn. Các luật còn lại là các luật cứng, không thể bãi bỏ, nhằm mục đích bảo vệ server khỏi các hành động phá hoại;
+- Hình phạt của một điều luật được đặt trong cặp ngoặc tròn, sắp xếp theo thứ tự thấp nhất (được thực thi đầu tiên) đến cao nhất (được thực thi cuối và lặp lại).
 
 # 1. Khu vực trung lập
 1.1. Những khu vực trung lập thuộc về mọi người chơi, tức mọi người có quyền đi vào và mở các rương chứa đồ;
@@ -13,18 +17,18 @@ Xem định nghĩa một số khái niệm tại [đây](Một_số_yế
 
 1.1.3. Không được phá hoại hay lấy cắp khối hay đồ tại khu vực mapart được xác nhận (cảnh báo + trả đồ -> ban 1 tuần + vào lại phải trả đồ)
 
-1.1.4. Đối với các luật 1.1.1., 1.1.2. và 1.1.3., không trả đồ sẽ dẫn đến hình phạt tiếp theo. Trừ khi đó là hình phạt cao nhất, khi đó hình phạt sẽ được thực hiện lại;
+1.1.4. Đối với các điều luật 1.1.1., 1.1.2. và 1.1.3., không trả đồ sẽ dẫn đến hình phạt tiếp theo. Trừ khi đó là hình phạt cao nhất, khi đó hình phạt sẽ được thực hiện lại;
 
 1.2. Không được phá hoại các khu vực trung lập và các công trình bên trong (ban 5 ngày -> ban 2 tuần);
 
-1.3. Không được lavacast (ban 1 tháng).
+1.3. Không được lavacast khu vực trung lập (ban 1 tháng).
 
 # 2. Thú nuôi của người chơi
 2.1. Không được giết thú nuôi của người khác (ban 2 ngày);
 
-2.1.1. Nếu thu nuôi của người khác chủ động tấn công bạn, bạn có thể giết nó để phản công;
+2.1.1. Nếu thú nuôi của người khác chủ động tấn công bạn, bạn có thể giết nó để phản công;
 
 2.1.2. Nếu người khác cưỡi một con vật nào đó để tấn công bạn (bao gồm cả ngựa và những thú nuôi khác), bạn có thể giết nó.
 
 # 3. Các công cụ gian lận
-3.1. Không được sử dụng các công cụ gian lận như X-ray, auto-click, v.v. (ban 2 ngày -> ban 1 tuần -> ban 1 tháng + reset túi đồ).
+3.1. Không được sử dụng các công cụ gian lận như X-ray, auto-click, v.v. (ban 2 ngày -> ban 5 ngày -> ban 1 tuần -> ban 1 tháng + reset túi đồ).
