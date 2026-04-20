@@ -38,7 +38,7 @@ Ngoài bầu cử 1 lần mỗi 2 tuần, nếu như Nghị viện chỉ
 ## Quy trình biểu quyết
 Các thành viên chính có thể tiến hành một cuộc biểu quyết để thực hiện một hành động (ví dụ như thông qua một luật mà một người chơi đề xuất).
 
-Khi biểu quyết được thực hiện, yêu cầu phải có 3 lựa chọn: một lựa chọn đồng ý với hành động, một lựa chọn phản đối hành động, và một lựa chọn khác thực hiện một hành động trung gian nào đó. Ví dụ: khi một người đề xuất luật cấm đánh cắp đồ của người khác, họ có thể tạo biểu quyết với 3 lựa chọn: đồng ý thêm luật, phản đối thêm luật, đồng ý thêm luật nhưng chỉ giới hạn ở một số lại đồ nhất định.
+Khi biểu quyết được thực hiện, yêu cầu phải có từ 2 đến 3 lựa chọn: một lựa chọn đồng ý với hành động, một lựa chọn phản đối hành động, và (nếu biểu quyết có 3 lựa chọn) một lựa chọn khác thực hiện một hành động trung gian nào đó. Ví dụ: khi một người đề xuất luật cấm đánh cắp đồ của người khác, họ có thể tạo biểu quyết với 3 lựa chọn: đồng ý thêm luật, phản đối thêm luật, đồng ý thêm luật nhưng chỉ giới hạn ở một số lại đồ nhất định.
 
 Trong trường hợp cả 3 lựa chọn đều có một người chọn, thành viên phụ của Nghị viện có thể tham gia biểu quyết để giải quyết.
 
