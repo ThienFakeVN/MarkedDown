@@ -33,7 +33,7 @@ print(random.choice(danh_sách_ứng_viên))
 input()
 ```
 
-Ngoài bầu cử 1 lần mỗi 2 tuần, nếu như Nghị viện chỉ còn 2 thành viên (do 2 thành viên còn lại bị đình chỉ), bầu cử cũng sẽ được tổ chức để bầu lại thành viên của Nghị viện
+Ngoài bầu cử 1 lần mỗi 2 tuần, nếu như Nghị viện chỉ còn 2 thành viên (do 2 thành viên còn lại bị đình chỉ), bầu cử cũng sẽ được tổ chức để bầu lại thành viên của Nghị viện.
 
 ## Quy trình biểu quyết
 Các thành viên chính có thể tiến hành một cuộc biểu quyết để thực hiện một hành động (ví dụ như thông qua một luật mà một người chơi đề xuất).
