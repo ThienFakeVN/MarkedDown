@@ -1,4 +1,4 @@
-Một số yếu tố của luật server (2026.04.5)
+Một số yếu tố của luật server (2026.04.6)
 
 # Giải thích một số khái niệm
 **Khu vực trung lập**: những khu vực đặc biệt trong server, thuộc về mọi người chơi. Những khu vực trung lập bao gồm:
@@ -12,7 +12,7 @@ Một số yếu tố của luật server (2026.04.5)
 - Được xây ở The End;
 - Có tọa độ khu vực xây dựng được tiết lộ.
 
-**Nghị viện**: một nhóm đảm nhận công việc thông qua và bãi bỏ các luật được đề xuất, xét xử những người được cho là sử dụng các công cụ gian lận, v.v. (xem phần [Nghị viện](#nghị-viện) để biết thêm).
+**Nghị viện**: một nhóm đảm nhận công việc thông qua và bãi bỏ các luật được đề xuất, xét xử những người được cho là sử dụng các công cụ gian lận, v.v. (xem phần [Nghị viện](#nghị-viện) để biết thêm). Lưu ý rằng Nghị viện vẫn chưa được áp dụng.
 
 # Nghị viện
 Nghị viện là một nhóm gồm 3 thành viên chính và 1 thành viên phụ, được bầu cử 1 lần mỗi 2 tuần. Nghị viện có quyền thông qua và bãi bỏ các luật do người chơi đề xuất, đồng thời xét xử một người chơi bị cho là phạm luật.
